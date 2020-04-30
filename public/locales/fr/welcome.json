@@ -6,12 +6,12 @@
   },
   "apiAddressForm": {
     "apiLabel": "Adresse de l'API",
-    "submitButton": "Soumettre"
+    "submitButton": "Valider"
   },
   "connected": {
     "header": "Connecté à IPFS",
     "paragraph1": "<0>Il est maintenant temps pour vous d'explorer votre pair. Cliquez sur <1>la page Fichiers</1> pour organiser et partager vos fichiers, ou explorer la <3>Merkle Forest</3> ou les données décrites par des hash d'autres pairs via le <5>IPLD explorer</5>.</0>",
-    "paragraph2": "<0>Vous pouvez toujours revenir à cette adresse pour changer le nœud IPFS où vous êtes connecté.</0>"
+    "paragraph2": "<0>Vous pouvez toujours revenir à cette adresse pour changer le nœud IPFS auquel vous êtes connecté.</0>"
   },
   "notConnected": {
     "header": "Votre démon IPFS est-il en cours d'exécution ?",
@@ -22,10 +22,10 @@
   },
   "aboutIpfs": {
     "header": "Qu'est-ce qu'IPFS ?",
-    "paragraph1": "<0><0>IPFS est un protocole</0> qui définit un système de fichiers adressable par le contenu, coordonne la réception du contenu en combinant plusieurs idées comme Kademlia, BitTorrent, Git et bien plus.</0>",
-    "paragraph2": "<0><0>IPFS est un système de fichiers.</0> Il y a des répertoires et des fichiers montables sur votre système de fichiers via à FUSE.</0>",
-    "paragraph3": "<0><0>IPFS est un réseau.</0> Les fichiers sont accessibles par un portail HTTP comme <2>https://ipfs.io</2>. Les navigateurs <4>peuvent être améliorés</4> pour utiliser les URL en <6>ipfs://</6> directement, et l'adressage par hash du contenu en garantit l'authenticité.</0>",
+    "paragraph1": "<0><0>IPFS est un protocole</0> qui définit un système de fichiers indexés par leur contenu, coordonne la réception du contenu en combinant des idées de Kademlia, BitTorrent, Git et bien d'autres.</0>",
+    "paragraph2": "<0><0>IPFS est un système de fichiers.</0> Il y a des répertoires et des fichiers montables sur votre système de fichiers via FUSE.</0>",
+    "paragraph3": "<0><0>IPFS est un réseau.</0> Les fichiers sont accessibles par un portail HTTP comme <2>https://ipfs.io</2>. Les navigateurs <4>peuvent être augmentés</4> pour utiliser les URL en <6>ipfs://</6> directement, et l'indexation par hash du contenu en garantie l'authenticité.</0>",
     "paragraph4": "<0><0>IPFS est un réseau p2p.</0> Il prend en charge les transferts de fichiers peer-to-peer dans le monde entier avec une architecture complètement décentralisée et sans point de défaillance central.</0>",
-    "paragraph5": "<0><0>IPFS est un CDN.</0> Ajoutez un fichier à votre dossier local, et il est désormais accessible au monde entier grâce à l'adressage par hash qui facilite la mise en cache et permet une répartition du réseau à la BitTorrent.</0>"
+    "paragraph5": "<0><0>IPFS est un CDN.</0> Ajoutez un fichier à votre dossier local, et il est désormais accessible au monde entier grâce à l'indexation par hash qui facilite la mise en cache et permet une répartition du réseau à la BitTorrent.</0>"
   }
 }

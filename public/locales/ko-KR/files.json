@@ -18,7 +18,7 @@
   "addToIPFS": "IPFS에 추가",
   "newFolder": "새 폴더",
   "actions": {
-    "add": "추가",
+    
     "delete": "삭제",
     "rename": "이름변경",
     "download": "다운로드",

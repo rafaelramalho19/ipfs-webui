@@ -19,7 +19,7 @@
   "newFolder": "新建文件夾",
   "generating": "生成中",
   "actions": {
-    "add": "添加",
+    
     "delete": "移除",
     "rename": "重命名",
     "download": "下載",

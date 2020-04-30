@@ -18,7 +18,7 @@
   "addToIPFS": "Agregar a IPFS",
   "newFolder": "Nueva carpeta",
   "actions": {
-    "add": "Agregar",
+    
     "delete": "Eliminar",
     "rename": "Renombrar",
     "download": "Descarga",

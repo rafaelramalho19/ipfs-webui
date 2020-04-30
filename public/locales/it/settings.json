@@ -25,14 +25,6 @@
   "settingsWillBeUsedNextTime": "Le nuove impostazioni saranno utilizzate al prossimo riavvio del tuo demone IPFS.",
   "ipfsConfigDescription": "Il file della configurazione IPFS è un documento JSON. Viene letto una volta che il demone IPFS è partito. Salva le tue modifiche e poi riavvia il demone IPFS per applicarle.",
   "ipfsConfigHelp": "Controlla la documentazione per ulteriori informazioni.",
-  "ipfsDesktop": "IPFS Desktop",
-  "takeScreenshot": "Cattura screenshot",
-  "takeScreenshotDescription": "Utilizza <0>{key1}</0> + <2>{key2}</2> + <3>{key3}</3> per catturare gli screenshot ed aggiungerli alla tua repository.",
-  "downloadHash": "Scarica hash",
-  "downloadHashDescription": "Utilizza <0>{key1}</0> + <2>{key2}</2> + <3>{key3}</3> per scaricare sul tuo sistema l'ultimo hash, o percorso, copiato.",
-  "launchOnStartup": "Lancia programma all'avvio del sistema",
-  "globalShortcuts": "Scorciatoie Globali",
-  "globalShortcutsAre": "IPFS Desktop offre l'accesso ad alcune funzionalità tramite le scorciatoie da tastiera. Puoi abilitarle o disabilitarle da qui.",
   "AnalyticsToggle": {
     "label": "Aiuta a migliorare quest'applicazione mandando dati d'utilizzo anonimi",
     "summary": "Configura quali dati sono collezionati",
@@ -67,6 +59,11 @@
     }
   },
   "tour": {
+    "back": "Indietro",
+    "close": "Chiudi",
+    "last": "Ultimo",
+    "next": "Prossimo",
+    "skip": "Salta",
     "step1": {
       "title": "Pagina delle impostazioni",
       "paragraph1": "Qui puoi modificare le impostazioni del tuo Web UI e del tuo nodo IPFS.",
@@ -91,13 +88,6 @@
     "description": "Qui puoi avere un'anteprima delle nuove funzionalità di IPFS abilitando l'opzione sottostante. Stiamo testando queste idee ed esse potrebbero non essere ancora perfette, quindi vorremmo sentire la tua opinione.",
     "issueUrl": "Pubblica un problema",
     "feedbackUrl": "Condividi la tua opinione",
-    "readMoreUrl": "Leggi di più",
-    "npmOnIpfs": {
-      "title": "NPM su IPFS",
-      "label": "Abilita ipfs-npm",
-      "description": "Installa moduli npm attraverso IPFS con lo strumento a linea di comando 'ipfs-npm'!"
-    }
-  },
-  "ipfsCmdTools": "Strumenti IPFS a linea di comando",
-  "ipfsCmdToolsDescription": "Aggiungi i binari <0>ipfs</0> al <0>PATH</0> del tuo sistema per utilizzarli nel tuo terminale."
+    "readMoreUrl": "Leggi di più"
+  }
 }

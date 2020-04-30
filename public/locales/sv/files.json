@@ -18,7 +18,7 @@
   "addToIPFS": "Lägg till i IPFS",
   "newFolder": "Ny mapp",
   "actions": {
-    "add": "Lägg till",
+    
     "delete": "Ta bort",
     "rename": "Byt namn",
     "download": "Ladda ner",
